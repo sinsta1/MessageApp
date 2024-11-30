@@ -1,0 +1,17 @@
+{
+    "name": "messagingApp-frontend",
+    "version": "1.0.0",
+    "description": "Frontend for messaging app",
+    "main": "index.html",
+    "scripts": {
+        "start": "live-server public",
+        "build": "npm run build",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Japman",
+    
+    "license": "ISC",
+    "devDependencies": {
+        "live-server": "^1.2.2"
+    }
+}
